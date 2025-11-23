@@ -11,5 +11,5 @@ This project is a small in-memory key-value store that supports a single transac
    py main.py
 
 
-How This Assignment Could Be Improved
+## How This Assignment Could Be Improved
 This assignment could be modified in order to become an "official" assignment in the future by making the directions a little more clear. It may help to clearly define how get() should behave during transactions. Another improvement woud be adding a few required unit tests so that grading is more consistent and is easier to autmate. Furthermore, having an example output format would also be helpful.
